@@ -10,6 +10,10 @@
     "convert",
     "timestamp"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhaLuu/timestamp-to-friendly-date.git"
+  },
   "author": "PhaLuu",
   "license": "ISC",
   "types": "index.d.ts",
