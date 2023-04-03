@@ -1,0 +1,1 @@
+export function formatFriendlyDateString(timestamp: number): string;

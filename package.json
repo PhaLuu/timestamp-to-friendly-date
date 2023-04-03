@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-to-friendly-date",
+  "version": "1.0.1",
+  "description": "A function to convert Unix timestamp to a human-friendly date string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "timestamp"
+  ],
+  "author": "PhaLuu",
+  "license": "ISC",
+  "types": "index.d.ts",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
+}
